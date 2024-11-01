@@ -10,7 +10,7 @@ const DeleteModal = (props) => {
                 <Modal.Header closeButton>
                     <Modal.Title>Delete</Modal.Title>
                 </Modal.Header>
-                <Modal.Body>Warning! Do you really want to delete this note? You will lose everything you saved</Modal.Body>
+                <Modal.Body>Warning! Do you really want to delete all your note? You will lose everything you saved</Modal.Body>
                 <Modal.Footer>
                     <Button title="Close" variant="secondary" onClick={onHide} />
                     <Button title="Delete" variant="danger" onClick={() => {
