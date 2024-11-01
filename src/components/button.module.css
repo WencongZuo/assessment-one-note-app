@@ -1,0 +1,22 @@
+.button {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+    background-color: #ffccff;
+    border: 1px solid #ffb3ff;
+    box-shadow: 2px 2px #ffb3ff;
+    position: relative;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.button:hover {
+    top: 1px;
+    left: 1px;
+    box-shadow: 1px 1px #ffb3ff;
+}
+
+.button:active {
+    top: 2px;
+    left: 2px;
+    box-shadow: none;
+}

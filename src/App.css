@@ -1,0 +1,25 @@
+body {
+  background-color: #ffe6ff;
+}
+
+table  {
+  border: 1px, solid;
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  color: #a0a0ee;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: x-large;
+}
+
+.App-link {
+  color: #61dafb;
+}

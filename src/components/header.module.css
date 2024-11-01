@@ -1,0 +1,15 @@
+.container {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px +2vmin);
+    color: #ffe6ff;
+    padding: 20px;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.container>h2 {
+    margin: 0;
+}
